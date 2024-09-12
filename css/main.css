@@ -413,3 +413,12 @@ body {
   opacity: 1;
   text-align: left;
 }
+
+.pesquisa{
+  top: 100px;
+  right: auto;
+  width: 100px;
+  height: 100px;
+  bottom: auto;
+
+}
